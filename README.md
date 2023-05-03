@@ -1,6 +1,6 @@
 # acd_scanner
 
-This is a plugin for the [ACD Android Scanner}(https://www.acd-gruppe.de/mobile-geraete/mobile-handheld-computer/m270se/).
+This is a plugin for the [ACD Android Scanner](https://www.acd-gruppe.de/mobile-geraete/mobile-handheld-computer/m270se/).
 
 With this plugin you are able to connect to your ACD Scanner and get the 
 scanned barcode informations from the scanner to your flutter app.
