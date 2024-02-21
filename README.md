@@ -66,11 +66,11 @@ You also can send your own custom message
   }
 ```
 
-There is also an example app which you can directly build to you handscanner and test.
+There is also an example app which you can directly build to your device and test.
 
-If you have any problems with the lib just feel free to open an issue.
+If you have any problems with the library, feel free to open an issue.
 
-Happy Coding with Coodoo
+Happy coding with coodoo
 
 
 
